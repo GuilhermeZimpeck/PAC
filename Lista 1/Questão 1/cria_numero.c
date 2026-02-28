@@ -10,4 +10,5 @@ int main() {
 
     criaNumero = X * 100 + Y;
     printf("o numero criado foi: %d",criaNumero);
+    return 0;
 }
