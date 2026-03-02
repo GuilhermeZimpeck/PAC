@@ -6,6 +6,7 @@ void tabuada(int n) {
     
     for (i = 0; i < 11; i++) {
         resultado = n*i;
+        
         printf("%d: %d\n",i,resultado);
     }
 }
